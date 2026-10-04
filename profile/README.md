@@ -8,7 +8,7 @@ development happens here.
 Some of these repositories used to be submitted to the
 [LineageOS organization](https://github.com/LineageOS), with
 development on [LineageOS Gerrit](https://review.lineageos.org). That
-has stopped, and the copies there are no longer updated.
+has stopped, and the copies there are no longer updated by us.
 
 ## Why we left the LineageOS organization
 
